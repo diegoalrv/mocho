@@ -1,0 +1,14 @@
+pandas
+geopandas
+matplotlib
+numpy
+scikit-learn
+scipy
+seaborn
+shapely
+pyarrow
+fiona
+pyodbc
+openpyxl
+duckdb
+sqlalchemy
